@@ -1,0 +1,44 @@
+Test case 1
+
+input your name
+sahil
+input marks in your all five subjects
+85
+85
+85
+85
+85
+Mr.sahil we're recomending you for the placements
+
+
+Test case 2
+
+input your name
+vishal
+input marks in your all five subjects
+85
+45
+30
+30
+30
+Sorry Mr.vishal you are not eligible for the placement criteria
+
+because your percentage is 44.0
+and for the placement you're percentage should be greater than 60%
+
+Test case 3
+
+input your name
+kartik
+input marks in your all five subjects
+85
+5
+30
+30
+30
+Sorry Mr.kartik you are not eligible for the placement criteria
+
+because your percentage is 36.0
+and you have 1 Backlog
+
+
